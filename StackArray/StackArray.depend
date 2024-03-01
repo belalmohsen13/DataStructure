@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1709245855 source:c:\users\user\desktop\datastructue\stackarray\main.c
+
+1709248766 source:c:\users\user\desktop\datastructue\stackarray\stack.c
+	"stack.h"
+
+1709248766 c:\users\user\desktop\datastructue\stackarray\stack.h
+	<stdio.h>
+	<stdlib.h>
+
