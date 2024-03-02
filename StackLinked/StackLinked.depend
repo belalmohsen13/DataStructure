@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\user\desktop\datastructue\stacklinked\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1709387253 source:c:\users\user\desktop\datastructue\stacklinked\stack.c
+	"stack.h"
+
+1709387268 c:\users\user\desktop\datastructue\stacklinked\stack.h
+	<stdio.h>
+	<stdlib.h>
+
