@@ -22,7 +22,7 @@ int  Abstract(QueueEntry e,Queue *pq)
 
         if(!pq->Rear)
         {
-            pq->Front=NULL;
+            pq->Front=pn;
         }
         else
         {

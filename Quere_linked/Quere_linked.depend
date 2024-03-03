@@ -1,8 +1,8 @@
 # depslib dependency file v1.0
-1709407972 source:c:\users\user\desktop\datastructue\quere_linked\queue.c
+1709499209 source:c:\users\user\desktop\datastructue\quere_linked\queue.c
 	"queue.h"
 
-1709408056 source:c:\users\user\desktop\datastructue\quere_linked\main.c
+1709499340 source:c:\users\user\desktop\datastructue\quere_linked\main.c
 	<stdio.h>
 	<stdlib.h>
 	"queue.h"
