@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1709933986 source:c:\users\user\desktop\datastructue\postfix2\stack.c
+	"stack.h"
+
+1709933986 c:\users\user\desktop\datastructue\postfix2\stack.h
+	<stdio.h>
+	<stdlib.h>
+
+1709935848 source:c:\users\user\desktop\datastructue\postfix2\main.c
+	<stdio.h>
+	"stack.h"
+
